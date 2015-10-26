@@ -9,10 +9,10 @@
     "export",
     "d.ts"
   ],
-  "homepage": "https://github.com/grunt-ts/dts-bundle",
+  "homepage": "https://github.com/ypolosov/dts-bundle",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grunt-ts/dts-bundle.git"
+    "url": "https://github.com/ypolosov/dts-bundle.git"
   },
   "author": {
     "name": "Bart van der Schoor",
@@ -21,11 +21,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/grunt-ts/dts-bundle/master/LICENSE-MIT.txt"
+      "url": "https://github.com/ypolosov/dts-bundle/master/LICENSE-MIT.txt"
     }
   ],
   "bugs": {
-    "url": "https://github.com/grunt-ts/dts-bundle/issues"
+    "url": "https://github.com/ypolosov/dts-bundle/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
